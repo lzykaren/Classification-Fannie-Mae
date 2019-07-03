@@ -1,5 +1,5 @@
 # Data-Mining-Research-Fannie-Mae
-Data Mining Research about Fannie Mae
+Data Mining Research about Fannie Mae Dataset
 
 Hello!
 This is Ziyan Lin, a graduate student from Johns Hopkins University, majoring in applied math and statistics.
