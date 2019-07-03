@@ -11,4 +11,4 @@ Tianqi and I are focus on classification part. Zero Balance code is treated as t
 
 This repository contains [all code for classification part](), one [final poster](https://github.com/lzykaren/Data-Mining-Research-Fannie-Mae/blob/master/FANM%20Final%20Poster.pdf), and one [final report](https://github.com/lzykaren/Data-Mining-Research-Fannie-Mae/blob/master/FANM%20Final%20Report.pdf). If you have any question or suggestions, please feel free to contact me. Thank you very much.
 
-My email: ziyanlin3@gmail.com
+My email address: ziyanlin3@gmail.com
