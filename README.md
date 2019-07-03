@@ -1,4 +1,4 @@
-# Data-Mining-Research-Fannie-Mae
+# Classification Research Fannie Mae
 
 Hello!
 This is Ziyan Lin, a graduate student from Johns Hopkins University, majoring in applied math and statistics.
