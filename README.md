@@ -10,6 +10,6 @@ Fannie Mae provides loan performance dataset. The primary dataset is divided int
 
 Tianqi and I are focus on classification part. Zero Balance code is treated as target variable with three categories: normal, default, and prepaid. All other variables are viewed as features. PCA and eight different classification methods, Perceptron, Ridge classifier, Logistic Regression, KNN, Linear SVM, RBF SVM, Random Forest, and Naïve Bayes are applied into analysis. For each classifier, 10-fold cross validation with accuracy as cv score is used when training. Among these methods, Random Forest plays the best role due to highest accuracy with lowest deviation, and confusion matrix is reported.
 
-This repository contains all codes for classification part, one final poster, and one final report. If you have any question or suggestions, please feel free to contact me. Thank you very much.
+This repository contains all codes for classification part, one [final poster](), and one final report. If you have any question or suggestions, please feel free to contact me. Thank you very much.
 
 My email: ziyanlin3@gmail.com
